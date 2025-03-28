@@ -1,7 +1,7 @@
 # Knee Arthritis Detection Notebook
 
 This repository contains a Jupyter Notebook for detecting knee arthritis using various machine learning techniques mainly
-Convolutional Neural Networks (CNN),nData Augmentation.The notebook demonstrates the complete workflow from data loading, preprocessing, model training, evaluation, to prediction.
+Convolutional Neural Networks (CNN),Data Augmentation.The notebook demonstrates the complete workflow from data loading, preprocessing, model training, evaluation, to prediction.
 
 ## Table of Contents
 
